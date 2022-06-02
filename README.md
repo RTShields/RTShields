@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @RTShields
-- 👀 I’m interested in Anime, photography, rainy days, and both digital and alagog gaming
-- 🌱 I’m currently learning python
+- 👀 I'm mostly here to showcase my program projects for work/play
+- 🌱 I’m currently learning python, but interested in Rust/Go
 - 💞️ I’m looking to collaborate on shenanigans involving a Raspberry Pi
-- 📫 How to reach me ...
+- 📫 I can be reached at Palmer_JD@att.net
 
 <!---
 RTShields/RTShields is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
